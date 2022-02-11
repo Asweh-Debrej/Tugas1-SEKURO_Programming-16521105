@@ -1,7 +1,5 @@
 # #1 APA ITU GIT & GITHUB
 
-<p>&nbsp;</p>
-
 ## RINGKASAN
 
 <div style="text-align: justify">

@@ -1,7 +1,5 @@
 # #3 GITHUB : BRANCH
 
-<p>&nbsp;</p>
-
 ## RINGKASAN
 ### Fitur branch
 <div style="text-align: justify">
@@ -11,10 +9,10 @@ Fitur branch ini berfungsi membuat commit tanpa mengganggu jalur utama. Fitur in
 <p>&nbsp;</p>
 
 ### Membuat Branch
-1. Klik "Branch:"
-2. Isi nama branch
-3. Klik "Create branch:"
-4. Branch sudah dibuat. Untuk melihat grafik branch, klik "Insight" lalu klik "Network"
+1. Klik "Branch:".
+2. Isi nama branch.
+3. Klik "Create branch:".
+4. Branch sudah dibuat. Untuk melihat grafik branch, klik "Insight" lalu klik "Network".
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -27,13 +25,17 @@ Fitur merge diadakan sebagai tulang punggung dari branch, yaitu untuk menyatukan
 <p>&nbsp;</p>
 
 ### Merge Branch
-1. Pilih branch yang akan di-merge
-2. Klik "Compare & pull request"
-3. Pilih base branch yang akan menjadi target merge
-5. Klik "Pull Request"
-6. Sebagai pemilik branch target, klik "Pull Requests"
-7. Pilih branch yang akan di-merge dan klik "Merge pull request"
-8. Branch target akan di-merge. Jika ada konflik, pertimbangkan secara manual apa yang akan ditetapkan atau dibiarkan perubahnnya
+1. Pilih branch yang akan di-merge.
+2. Klik "Compare & pull request".
+3. Pilih base branch yang akan menjadi target merge.
+5. Klik "Pull Request".
+
+<p>&nbsp;</p>
+
+### Menerima Pull Request
+1. Sebagai pemilik branch target, klik "Pull Requests".
+2. Pilih branch yang akan di-merge dan klik "Merge pull request".
+3. Branch target akan di-merge. Jika ada konflik, pertimbangkan secara manual apa yang akan ditetapkan atau dibiarkan.perubahnnya
 
 <p>&nbsp;</p>
 
